@@ -1,0 +1,40 @@
+.background {
+    -fx-background-color: white;
+}
+
+.sub-background {
+    -fx-background-color: gray;
+}
+
+.header {
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-background-color: white;
+}
+
+.button {
+    -fx-background-color: cyan;
+}
+
+.label {
+    -fx-text-fill: black;
+}
+
+.table-view .column-header {
+    -fx-background-color: cyan;
+}
+
+.table-view .text-field {
+    -fx-background-color: cyan;
+    -fx-text-fill: black;
+}
+
+.menu-bar {
+    -fx-background-color: blue;
+}
+
+.menu .label {
+    -fx-text-fill: white
+}
